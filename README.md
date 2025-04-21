@@ -22,3 +22,126 @@ VALUES
     ('Alice Johnson', 20, 'Female'),
     ('Brian Smith', 22, 'Male'),
     ('Chloe Lee', 19, 'Female');
+# Database Design and Programming with SQL
+
+This repository contains the code and solutions for the **Database Design and Programming with SQL** course assignments.
+
+## Assignment Overview
+
+The assignments involve creating SQL tables, inserting data, and performing updates on a database.
+
+### Completed Tasks
+
+- **Created a `student` table** with the columns `id`, `fullName`, and `age`.
+- **Inserted records** into the `student` table.
+- **Updated data** in the `student` table to modify the age of a student.
+
+### Files in this repository
+
+- `answers.sql`: Contains all the SQL queries for creating the database, inserting records, and updating data.
+
+## How to Run
+
+To execute the SQL queries, you will need a MySQL server running. Once you have a MySQL instance running, you can run the following command to apply the SQL script:
+
+```bash
+mysql -u root < answers.sql
+# Database Design and Programming with SQL
+
+This repository contains the code and solutions for the **Database Design and Programming with SQL** course assignments.
+
+## Assignment Overview
+
+The assignments involve creating SQL tables, inserting data, and performing updates on a database.
+
+### Completed Tasks
+
+- **Created a `student` table** with the columns `id`, `fullName`, and `age`.
+- **Inserted records** into the `student` table.
+- **Updated data** in the `student` table to modify the age of a student.
+
+### Files in this repository
+
+- `answers.sql`: Contains all the SQL queries for creating the database, inserting records, and updating data.
+
+## How to Run
+
+To execute the SQL queries, you will need a MySQL server running. Once you have a MySQL instance running, you can run the following command to apply the SQL script:
+
+```bash
+mysql -u root < answers.sql
+
+# Database Design and Programming with SQL
+
+This repository contains the code and solutions for the **Database Design and Programming with SQL** course assignments.
+
+## Assignment Overview
+
+The assignments involve creating SQL tables, inserting data, and performing updates on a database.
+
+### Completed Tasks
+
+- **Created a `student` table** with the columns `id`, `fullName`, and `age`.
+- **Inserted records** into the `student` table.
+- **Updated data** in the `student` table to modify the age of a student.
+
+### Files in this repository
+
+- `answers.sql`: Contains all the SQL queries for creating the database, inserting records, and updating data.
+
+## How to Run
+
+To execute the SQL queries, you will need a MySQL server running. Once you have a MySQL instance running, you can run the following command to apply the SQL script:
+
+```bash
+mysql -u root < answers.sql
+# Database Design and Programming with SQL
+
+This repository contains the code and solutions for the **Database Design and Programming with SQL** course assignments.
+
+## Assignment Overview
+
+The assignments involve creating SQL tables, inserting data, and performing updates on a database.
+
+### Completed Tasks
+
+- **Created a `student` table** with the columns `id`, `fullName`, and `age`.
+- **Inserted records** into the `student` table.
+- **Updated data** in the `student` table to modify the age of a student.
+
+### Files in this repository
+
+- `answers.sql`: Contains all the SQL queries for creating the database, inserting records, and updating data.
+
+## How to Run
+
+To execute the SQL queries, you will need a MySQL server running. Once you have a MySQL instance running, you can run the following command to apply the SQL script:
+
+```bash
+mysql -u root < answers.sql
+# Database Design and Programming with SQL
+
+This repository contains the code and solutions for the **Database Design and Programming with SQL** course assignments.
+
+## Assignment Overview
+
+The assignments involve creating SQL tables, inserting data, and performing updates on a database.
+
+### Completed Tasks
+
+- **Created a `student` table** with the columns `id`, `fullName`, and `age`.
+- **Inserted records** into the `student` table.
+- **Updated data** in the `student` table to modify the age of a student.
+
+### Files in this repository
+
+- `answers.sql`: Contains all the SQL queries for creating the database, inserting records, and updating data.
+
+## How to Run
+
+To execute the SQL queries, you will need a MySQL server running. Once you have a MySQL instance running, you can run the following command to apply the SQL script:
+
+```bash
+mysql -u root < answers.sql
+
+
